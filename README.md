@@ -2,7 +2,7 @@
 
 [![Platform](https://img.shields.io/badge/Platform-iOS-yellow.svg)]()
 [![Language](https://img.shields.io/badge/Language-Swift_5.1-orange.svg)]()
-[![SPM](https://img.shields.io/badge/Supported-lightblue.svg)]()
+[![SPM](https://img.shields.io/badge/SPM-Supported-lightblue.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
 **Last Update: 02/January/2020.**
