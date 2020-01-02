@@ -1,5 +1,6 @@
 # constraints-kit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![Build](https://github.com/jvirus/constraints-kit/workflows/Build/badge.svg)]()
 [![Platform](https://img.shields.io/badge/Platform-iOS-yellow.svg)]()
 [![Language](https://img.shields.io/badge/Language-Swift_5.1-orange.svg)]()
 [![SPM](https://img.shields.io/badge/SPM-Supported-lightblue.svg)]()
